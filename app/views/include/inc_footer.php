@@ -33,14 +33,13 @@
 						
 						<div class="row footer-list">
 							<div class="col-md-6">
-								<p>&copy; 2011-2019. All rights reserved.</p>
+								<p>&copy; 2018-<?php echo date("Y"); ?>. All rights reserved.</p>
 							</div>
 							<div class="col-md-6 text-right">
 								<ul>
-									<li><a href="website-design-company/enquiry.html">Contact Us</a></li>
-									<li><a href="website-design-company/sitemap.html">Site Map</a></li>
-									<li><a href="privacy-policy.html">Privacy Policy</a></li>
-									<li><a href="website-design-company/terms-conditions.html" rel="nofollow">Terms &amp; Conditions</a></li>
+									<li><a href="<?php echo base_url(); ?>contact" title="Contact">Contact Us</a></li>
+									<li><a href="<?php echo base_url(); ?>privacy-policy" title="Privacy Policy">Privacy Policy</a></li>
+									<li><a href="<?php echo base_url(); ?>terms-conditions" title="Terms &amp; Conditions">Terms &amp; Conditions</a></li>
 								</ul>
 							</div>
 						</div>
