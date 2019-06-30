@@ -50,9 +50,30 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |		my-controller/my-method	-> my_controller/my_method
 */
 $route['default_controller']   = 'web/index';
-$route['404_override']         = '';
+$route['404_override']         = 'web/error_404';
 $route['translate_uri_dashes'] = FALSE;
 
 $route['contact']              = 'web/contact';
+$route['web-design']           = 'web/webdesign';
 $route['web-development']      = 'web/development';
+$route['search-engine-optimization']      = 'web/seo';
+
+
 $route['request-a-quote']      = 'web/request_quote';
+
+$route['portfolio']            = 'web/portfolio';
+
+$route['about']                = 'web/about';
+
+$route['terms-conditions']     = 'web/terms';
+
+$route['privacy-policy']       = 'web/privacy';
+
+$route['logo-design']          = 'web/logodesign';
+$route['mobile-app-ui-ux-design']       = 'web/mobile_ui_ux';
+$route['social-media-optimization']     = 'web/social_media_optimization';
+$route['ecommerce-development']         = 'web/ecommerce_development';
+$route['wordpress-development']         = 'web/wordpress_development';
+$route['android-app-development']       = 'web/android_development';
+$route['iphone-app-development']        = 'web/ios_development';
+$route['pay-per-click']                 = 'web/pay_per_click';

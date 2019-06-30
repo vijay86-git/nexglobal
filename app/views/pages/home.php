@@ -13,17 +13,17 @@
 										<li>design</li>
 									</ul>
 								</div>
-								<div id="demo-home" class="jennaFnt home-text-rotate" style="font-family:'jenna_sueregular', arial, sans-serif;">stunning ui/ux | better conversion | exptected results</div>
-								<div class="get-in-touch mrgntp25">
+								<div id="home_features" class="jennaFnt home-text-rotate">stunning ui/ux | better conversion | exptected results</div>
+								<!--<div class="get-in-touch">
 									<p>get in touch with us</p>
-								</div>
+								</div>-->
 								<div class="home-member-btn">
 									<a href="#" class="req-quote"> Request A Quote </a>
 								</div>
 							</div>
 						</div>
 						<div class="col-md-8 text-right banner-right">
-							<img src="<?php echo base_url(); ?>build/assets/images/bann.png" class="img-fluid" />
+							<img src="<?php echo base_url(); ?>build/assets/images/bann.png" class="img-fluid" alt="" />
 						</div>
 					</div>
 				</div>
@@ -37,7 +37,7 @@
 						<div class="service-container">
 							<div class="service-icon"><img class="img-fluid" src="<?php echo base_url(); ?>build/assets/images/1.png" alt="" /></div>
 							<h2>Web Design & UX</h2>
-							<p>We are a creative web design agency known for more than a decade to build the most beautiful &amp; engaging UI designs for distinct businesses. Our design experts offer the best balance of creativeness and user experience with their result oriented. </p>
+							<p>We help you to make a long lasting impression with a fresh looking, customized, and SEO-friendly website design. We have very talented team members to help you in setting up your image personality with its Branding Services. </p>
 							
 						</div>
 					</div>
@@ -45,7 +45,7 @@
 						<div class="service-container">
 							<div class="service-icon"><img class="img-fluid" src="<?php echo base_url(); ?>build/assets/images/2.png" alt="" /></div>
 							<h2>Web Development</h2>
-							<p>We are a creative web design agency known for more than a decade to build the most beautiful &amp; engaging UI designs for distinct businesses. Our design experts offer the best balance of creativeness and user experience with their result oriented. </p>
+							<p>We are one of the best Web Application advancement organizations that allow you to own splendid web proximity via the site. Applications we build will work on the roads of the growth of your business. </p>
 							
 						</div>
 					</div>
@@ -53,7 +53,7 @@
 						<div class="service-container">
 							<div class="service-icon"><img class="img-fluid" src="<?php echo base_url(); ?>build/assets/images/3.png" alt="" /></div>
 							<h2>App Development</h2>
-							<p>We are a creative web design agency known for more than a decade to build the most beautiful &amp; engaging UI designs for distinct businesses. Our design experts offer the best balance of creativeness and user experience with their result oriented. </p>
+							<p>We are the most reliable and advanced iPhone/Android development group which is capable remuneratively assemble straightforward and tremendously multiskilled models for mobile applications.. </p>
 						</div>
 					</div>
 				</div>
@@ -62,7 +62,7 @@
 						<div class="service-container">
 							<div class="service-icon"><img class="img-fluid" src="<?php echo base_url(); ?>build/assets/images/4.png" alt="" /></div>
 							<h2>Online Marketing</h2>
-							<p>We are a creative web design agency known for more than a decade to build the most beautiful &amp; engaging UI designs for distinct businesses. Our design experts offer the best balance of creativeness and user experience with their result oriented. </p>
+							<p>We are a online marketing agency that has unbelievable expertise that helps you to grow your business over the web with all social interactions to deliver the qualified anticipations to your website or application.</p>
 							
 						</div>
 					</div>
@@ -70,14 +70,14 @@
 						<div class="service-container">
 							<div class="service-icon"><img class="img-fluid" src="<?php echo base_url(); ?>build/assets/images/5.png" alt="" /></div>
 							<h2>Seo Services</h2>
-							<p>We are a creative web design agency known for more than a decade to build the most beautiful &amp; engaging UI designs for distinct businesses. Our design experts offer the best balance of creativeness and user experience with their result oriented. </p>
+							<p>We offer our clients affordable SEO services to help you in gaining online visibility and enhance ROI. We assist our clients in driving their business to the next level with our modern SEO techniques and best practices.</p>
 						</div>
 					</div>
 					<div class="col-md-4">
 						<div class="service-container">
 							<div class="service-icon"><img class="img-fluid" src="<?php echo base_url(); ?>build/assets/images/6.png" alt="" /></div>
 							<h2>E-Commerce</h2>
-							<p>We are a creative web design agency known for more than a decade to build the most beautiful &amp; engaging UI designs for distinct businesses. Our design experts offer the best balance of creativeness and user experience with their result oriented. </p>
+							<p>We ensures you to safeguard the achievements of your E-commerce website. Our experts are dedicated to implement creative methods and supporting services to convey magnificent results from design to product delivery.</p>
 							
 						</div>
 					</div>
@@ -112,7 +112,7 @@
 					</div>
 					<div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
 						<div class="hover ehover1">
-							<img class="img-fluid" src="https://miketricking.github.io/bootstrap-image-hover/images/girl.jpg" alt="">
+							<img class="img-fluid" src="https://miketricking.github.io/bootstrap-image-hover/images/girl.jpg" alt="" />
 							<div class="overlay">
 								<h2>Hover effect 1</h2>
 								<button class="info">View Website
@@ -125,7 +125,7 @@
 				<div class="row portfolio-home">
 					<div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
 						<div class="hover ehover1">
-							<img class="img-fluid" src="https://miketricking.github.io/bootstrap-image-hover/images/girl.jpg" alt="">
+							<img class="img-fluid" src="https://miketricking.github.io/bootstrap-image-hover/images/girl.jpg" alt="" />
 							<div class="overlay">
 								<h2>Hover effect 1</h2>
 								<button class="info">View Website</button>
@@ -135,7 +135,7 @@
 					
 					<div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
 						<div class="hover ehover1">
-							<img class="img-fluid" src="https://miketricking.github.io/bootstrap-image-hover/images/girl.jpg" alt="">
+							<img class="img-fluid" src="https://miketricking.github.io/bootstrap-image-hover/images/girl.jpg" alt="" />
 							<div class="overlay">
 								<h2>Hover effect 1</h2>
 								<button class="info">View Website
@@ -146,7 +146,7 @@
 			
 					<div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
 						<div class="hover ehover1">
-							<img class="img-fluid" src="https://miketricking.github.io/bootstrap-image-hover/images/girl.jpg" alt="">
+							<img class="img-fluid" src="https://miketricking.github.io/bootstrap-image-hover/images/girl.jpg" alt="" />
 							<div class="overlay">
 								<h2>Hover effect 1</h2>
 								<a href="http://www.google.com"><button class="info">View Website</button></a>
